@@ -8,8 +8,6 @@
 💬 &nbsp;Feel free to reach out to me for Game Developer and Website Developer, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at scw.satriacandrawinata@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
